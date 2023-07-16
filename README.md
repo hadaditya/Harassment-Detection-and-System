@@ -9,4 +9,4 @@ Introducing a automated system that leverages computer vision and AI to prevent 
 - OpenCV
 - playsound
 
-> [Demo Video](https://drive.google.com/file/d/1f0LVxGdx5zf0GfVvOdQ25SllC2RGZt2k/view?usp=sharing):
+> Here is the [Demo Video](https://drive.google.com/file/d/1f0LVxGdx5zf0GfVvOdQ25SllC2RGZt2k/view?usp=sharing).
